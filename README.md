@@ -26,7 +26,8 @@ In this project, I used **ChatGPT as an external vibe coding assistant** while d
 
 
 ## 📂 Project Structure
-```  
+
+```
 vibe-coding-assignment/
 │
 ├── ANALYSIS.md
@@ -37,4 +38,4 @@ vibe-coding-assignment/
 ├── style.css
 ├── script.js
 └── screenshot.png
-```  
+```

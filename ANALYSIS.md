@@ -41,7 +41,7 @@
 
 ---
 
-## Part 2 – Comparative Analysis (≈700 words)
+## Part 2  Comparative Analysis
 
 Vibe coding represents a more immersive interaction model than traditional code completion. Traditional IDE autocompletion tools focus primarily on token prediction: suggesting the next keyword, variable name, or method signature based on syntactic context. These tools operate locally on a single file and do not perform reasoning beyond immediate scope. For example, in a standard autocomplete flow, a developer types “document.getE” and the editor suggests “document.getElementById,” but the developer must still write the logic and structure manually.
 
@@ -56,4 +56,5 @@ However, using ChatGPT externally demonstrated valuable lessons during this assi
 Different workflows suit different tasks. Traditional code completion remains ideal for experienced developers needing quick syntax support. GitHub Copilot works well when already coding and wanting anticipation of patterns. External assistants like ChatGPT excel when prototyping ideas, exploring different implementations, or debugging conceptual issues that span multiple files. Fully integrated vibe coding agents are promising for rapid iteration on complex systems, especially when refactoring and coordinating multiple components.
 
 In summary, vibe coding expands the experience of programming beyond keystrokes into dialogue-driven development. Tools such as ChatGPT represent transitional forms toward IDE-embedded agents, while Cursor and Copilot Workspace demonstrate emerging deeper integration. The paradigm suggests a future where developers act more as architects and supervisors of AI-generated code than manual producers of every line.
+
 

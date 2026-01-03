@@ -37,3 +37,31 @@ vibe-coding-assignment/
 |-- style.css
 |-- script.js
 |-- screenshot.png
+
+
+---
+
+## 🐳 Running the Project with Docker
+
+This project can also be run using Docker.
+
+### Prerequisites
+- Docker installed on your machine
+
+### Build the Docker image
+```bash
+docker build -t todo-app .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
